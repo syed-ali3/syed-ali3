@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
+ 📚 About Me
+
+
+- ⚙️ Passionate about **web development**, and building **efficient systems**
+- 💡 I believe in solving real-world problems through logical thinking and teamwork
+- 🌱 Currently exploring: **Spring Boot** & **Cloud fundamentals**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ali_xyed007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_xyed007" height="30" width="40" /></a>
