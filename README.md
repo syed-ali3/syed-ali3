@@ -22,19 +22,19 @@
 
   <a href="https://instagram.com/ali_xyed007" target="blank">
 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_xyed007" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_xyed007" height="30" width="40" />
 
   </a>
 
   <a href="https://www.leetcode.com/u/Ali_Ahmed_NU/" target="blank">
 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ali_Ahmed_NU" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ali_Ahmed_NU" height="30" width="40" />
 
   </a>
 
   <a href="https://www.linkedin.com/in/ali-ahmed-22b55a316" target="blank">
 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-ahmed-22b55a316" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-ahmed-22b55a316" height="30" width="40" />
 
   </a>
 
