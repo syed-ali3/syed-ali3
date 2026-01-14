@@ -17,10 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://instagram.com/ali_xyed007" target="_blank" style="margin-right:15px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-&nbsp;&nbsp;
+
   <a href="mailto:aliahmad4142@gmail.com" style="margin-right:15px;">
     <img align="center" src="https://www.iconninja.com/files/1007/41/284/mail-google-gmail-icon.png" height="35" width="40" />
   </a>
@@ -31,6 +28,10 @@
 &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ali-ahmed-22b55a316" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/ali_xyed007" target="_blank" style="margin-right:15px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
 
