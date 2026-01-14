@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
 
 
 
@@ -11,9 +11,7 @@
 
 
 - ⚙️ Passionate about **web development**, and building **efficient systems**
-
 - 💡 I believe in solving real-world problems through logical thinking and teamwork
-
 - 🌱 Currently exploring: **Spring Boot** & **Cloud fundamentals**
 
 <h3 align="left">Connect with me:</h3>
