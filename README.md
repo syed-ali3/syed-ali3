@@ -3,9 +3,9 @@
 <h3 align="center">Software Developer</h3>
 
 
-checkOut My PortFolio:https://aliahmed-ae.vercel.app/
+Checkout my PortFolio: https://aliahmed-ae.vercel.app/
 
- 📚 About Me
+<h3>📚 About Me</h3>
 
 
 
@@ -15,10 +15,10 @@ checkOut My PortFolio:https://aliahmed-ae.vercel.app/
 - 💡 I believe in solving real-world problems through logical thinking and teamwork
 - 🌱 Currently exploring: **Spring Boot** & **Cloud fundamentals**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aliahmad4142@gmail.com" style="margin-right:15px;">
     <img align="center" src="https://www.iconninja.com/files/1007/41/284/mail-google-gmail-icon.png" height="35" width="40" />
   </a>
@@ -43,7 +43,7 @@ checkOut My PortFolio:https://aliahmed-ae.vercel.app/
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚙️ Languages and Tools:</h3>
 <p align="center" style="display:flex; justify-content:center; gap:28px; flex-wrap:wrap;"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
