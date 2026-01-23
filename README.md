@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 
-<h3 align="center">Software Developer</h3>
+<h2 align="center">Software Developer</h2>
 
 
 Checkout my PortFolio: https://aliahmed-ae.vercel.app/
